@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=08042004adityasingh" alt="08042004adityasingh" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs React Native**
+- 🌱 I’m currently learning **NextJs, React Native**
 
-- 💬 Ask me about **React, Next**
+- 💬 Ask me about **ReactJs, NextJs**
 
 - 📫 How to reach me **singhaditya200408apr@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny**
+- ⚡ Fun fact **Nothing about me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
