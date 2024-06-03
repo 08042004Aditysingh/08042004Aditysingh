@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=08042004adityasingh" alt="08042004adityasingh" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, React Native**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **ReactJs, NextJs**
 
